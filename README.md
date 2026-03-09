@@ -12,6 +12,6 @@ A cloth physics simulation built with Python and Pygame.
 
 ## How to run
 Install pygame:
-pip install pygame
+- pip install pygame
 Run the program:
-python game.py
+- python game.py
